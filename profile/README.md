@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="170x" src="https://raw.githubusercontent.com/byte3-cloud/branding/main/logo.png" />
+  <img height="170x" src="https://raw.githubusercontent.com/byte3-cloud/branding/main/logo_minimal%401024.png" />
 
-  <h1>byte3.cloud</h1>
+  <h1>byte3</h1>
 
   <p>
-    <strong>AWS Cloud professional IT services</strong>
+    <strong>digital solutions for growth business</strong>
   </p>
 
 </div>
